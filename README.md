@@ -15,7 +15,7 @@ Trabalho na área de E-Sports há mais de 5 anos, atuando em equipes nacionais e
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
