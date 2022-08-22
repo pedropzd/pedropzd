@@ -11,11 +11,11 @@ Trabalho na área de E-Sports há mais de 5 anos, atuando em equipes nacionais e
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropzd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropzd&theme=dracula)](https://github.com/pedropzd)
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/pedropzd/pedropzd.github.io)
 
 # Contatos
 
