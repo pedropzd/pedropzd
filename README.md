@@ -16,8 +16,8 @@ Trabalho na área de E-Sports há mais de 5 anos, atuando em equipes nacionais e
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/pedropzd/pedropzd.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/pedropzd/alurabook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=pedropzd.github.io&theme=dracula)](https://github.com/pedropzd/alura-plus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=alurabook&theme=dracula)](https://github.com/pedropzd/alurabook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropzd&repo=alura-plus&theme=dracula)](https://github.com/pedropzd/alura-plus)
 
 
 # Contatos
